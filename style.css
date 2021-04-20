@@ -1,6 +1,12 @@
 html {
   box-sizing: border-box;
-  background: #ffc600;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 7%,
+    rgba(9, 9, 121, 1) 51%,
+    rgba(0, 141, 170, 1) 100%
+  );
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 20px;
   font-weight: 200;
